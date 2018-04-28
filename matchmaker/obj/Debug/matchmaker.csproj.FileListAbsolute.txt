@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\matchmaker simulator\matchmaker\matchmaker\bin\Debug\matchmaker.exe.config
+C:\Users\Alex\Desktop\matchmaker simulator\matchmaker\matchmaker\bin\Debug\matchmaker.exe
+C:\Users\Alex\Desktop\matchmaker simulator\matchmaker\matchmaker\bin\Debug\matchmaker.pdb
+C:\Users\Alex\Desktop\matchmaker simulator\matchmaker\matchmaker\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\matchmaker simulator\matchmaker\matchmaker\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\matchmaker simulator\matchmaker\matchmaker\obj\Debug\matchmaker_MarkupCompile.cache
+C:\Users\Alex\Desktop\matchmaker simulator\matchmaker\matchmaker\obj\Debug\matchmaker_MarkupCompile.lref
+C:\Users\Alex\Desktop\matchmaker simulator\matchmaker\matchmaker\obj\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\matchmaker simulator\matchmaker\matchmaker\obj\Debug\matchmaker.g.resources
+C:\Users\Alex\Desktop\matchmaker simulator\matchmaker\matchmaker\obj\Debug\matchmaker.Properties.Resources.resources
+C:\Users\Alex\Desktop\matchmaker simulator\matchmaker\matchmaker\obj\Debug\matchmaker.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\matchmaker simulator\matchmaker\matchmaker\obj\Debug\matchmaker.exe
+C:\Users\Alex\Desktop\matchmaker simulator\matchmaker\matchmaker\obj\Debug\matchmaker.pdb
+C:\Users\Alex\Desktop\matchmaker simulator\matchmaker\matchmaker\obj\Debug\matchmaker.csprojResolveAssemblyReference.cache
